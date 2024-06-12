@@ -4,4 +4,4 @@ cd MRX
 
 git pull
 
-python Mrx.py
+python xxx.py
